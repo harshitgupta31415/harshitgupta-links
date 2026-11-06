@@ -1,0 +1,28 @@
+{
+  "name": "harshitgupta-links",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Harshit Gupta's personal links, selected work, and developer platform directory.",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "check:links": "node scripts/check-links.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/three": "^0.187.0",
+    "prettier": "^3.9.10",
+    "sharp": "^0.35.5",
+    "typescript": "5.9.3"
+  }
+}

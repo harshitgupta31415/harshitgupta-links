@@ -1,0 +1,274 @@
+{
+  "profiles": [
+    {
+      "id": "github",
+      "name": "GitHub",
+      "handle": "harshitgupta31415",
+      "url": "https://github.com/harshitgupta31415",
+      "description": "The code behind the work. Developer tools, full-stack projects, and contributions to open source.",
+      "label": "Code & open source",
+      "color": "#dce6ed",
+      "symbol": "GH"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "handle": "harshit-gupta--",
+      "url": "https://www.linkedin.com/in/harshit-gupta--/",
+      "description": "My professional journey, engineering experience, and the people I build with.",
+      "label": "Experience & connections",
+      "color": "#82b9ff",
+      "symbol": "in"
+    },
+    {
+      "id": "leetcode",
+      "name": "LeetCode",
+      "handle": "harshitgupta314",
+      "url": "https://leetcode.com/u/harshitgupta314/",
+      "description": "My problem-solving practice across algorithms and data structures.",
+      "label": "Algorithms & DSA",
+      "color": "#f7c57a",
+      "symbol": "LC"
+    },
+    {
+      "id": "codeforces",
+      "name": "Codeforces",
+      "handle": "HarshitGupta314",
+      "url": "https://codeforces.com/profile/HarshitGupta314",
+      "description": "Competitive programming, contests, and the climb to Expert. Practising in Python and moving into C++.",
+      "label": "Competitive programming",
+      "color": "#c3a8ff",
+      "symbol": "CF"
+    },
+    {
+      "id": "atcoder",
+      "name": "AtCoder",
+      "handle": "harshitgupta314",
+      "url": "https://atcoder.jp/users/harshitgupta314",
+      "description": "Another arena for structured contests and deliberate problem-solving practice.",
+      "label": "Contests & practice",
+      "color": "#8de2cf",
+      "symbol": "AC"
+    },
+    {
+      "id": "unstop",
+      "name": "Unstop",
+      "handle": "harshgup9009",
+      "url": "https://unstop.com/u/harshgup9009",
+      "description": "Hackathons, education, experience, and achievements in one place.",
+      "label": "Hackathons & achievements",
+      "color": "#f09ab7",
+      "symbol": "U"
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "handle": "Selected work & background",
+      "url": "https://intropage-with-html-and-css.vercel.app/",
+      "description": "A closer look at my background, technical skills, and the projects I have worked on.",
+      "label": "The wider picture",
+      "color": "#9ac9ee",
+      "symbol": "HG"
+    },
+    {
+      "id": "orcid",
+      "name": "ORCID",
+      "handle": "0009-0005-9751-1214",
+      "url": "https://orcid.org/0009-0005-9751-1214",
+      "description": "My persistent researcher identifier. A place to connect research work as it develops.",
+      "label": "Research identity",
+      "color": "#c9de91",
+      "symbol": "iD"
+    },
+    {
+      "id": "codeyes",
+      "name": "CodEyes",
+      "handle": "harshitgupta3.1415",
+      "url": "https://codeyes.in/u/harshitgupta3.1415",
+      "description": "My connected coding profile, bringing verified platform handles, contest activity, and problem-solving progress together.",
+      "label": "Connected coding profiles",
+      "color": "#a6e39b",
+      "symbol": "CE"
+    },
+    {
+      "id": "codechef",
+      "name": "CodeChef",
+      "handle": "harshit_g_314",
+      "url": "https://www.codechef.com/users/harshit_g_314",
+      "description": "My programming practice and contest profile, linked and verified through my CodEyes profile.",
+      "label": "Practice & contests",
+      "color": "#d7b598",
+      "symbol": "CC"
+    },
+    {
+      "id": "hackerrank",
+      "name": "HackerRank",
+      "handle": "vivek_chanchal11",
+      "url": "https://www.hackerrank.com/profile/vivek_chanchal11",
+      "description": "My HackerRank practice profile, linked from my connected CodEyes coding profile.",
+      "label": "Skills & programming practice",
+      "color": "#8cdfb2",
+      "symbol": "HR"
+    },
+    {
+      "id": "geeksforgeeks",
+      "name": "GeeksforGeeks",
+      "handle": "harshitgu5eyr",
+      "url": "https://www.geeksforgeeks.org/profile/harshitgu5eyr",
+      "description": "My GeeksforGeeks community profile for programming learning and discussions.",
+      "label": "Learning & community",
+      "color": "#9cd9ae",
+      "symbol": "GF"
+    },
+    {
+      "id": "kaggle",
+      "name": "Kaggle",
+      "handle": "harshitgupta314",
+      "url": "https://www.kaggle.com/harshitgupta314",
+      "description": "My profile in the data-science and AI community, for practical learning and competitions.",
+      "label": "Data & AI",
+      "color": "#8bd2ef",
+      "symbol": "K"
+    }
+  ],
+  "projects": [
+    {
+      "id": "memvora",
+      "name": "Memvora",
+      "handle": "TypeScript · Next.js · SQLite",
+      "url": "https://github.com/harshitgupta31415/memvora",
+      "description": "A local MVP for capturing debugging evidence, investigating problems, and recalling findings with citations. Includes CLI and read-only MCP workflows.",
+      "label": "Developer memory · Local MVP",
+      "color": "#8de2cf",
+      "symbol": "MV"
+    },
+    {
+      "id": "rollbackready",
+      "name": "RollbackReady",
+      "handle": "Next.js · FastAPI · PostgreSQL",
+      "url": "https://github.com/harshitgupta31415/nycr3s1-frontend",
+      "description": "Prisma migration review with deterministic checks, disposable database simulations, and verified recovery planning.",
+      "label": "Database reliability",
+      "color": "#82b9ff",
+      "symbol": "RR"
+    },
+    {
+      "id": "prisma",
+      "name": "Prisma Visualizer",
+      "handle": "React · TypeScript · Diagrams",
+      "url": "https://github.com/harshitgupta31415/prisma-visualizer",
+      "description": "Explore Prisma schemas as interactive relationship diagrams, with obstacle-aware routing, pan, zoom, and PNG export.",
+      "label": "Developer tooling",
+      "color": "#c3a8ff",
+      "symbol": "PV"
+    },
+    {
+      "id": "vectorbridge",
+      "name": "VectorBridge",
+      "handle": "TypeScript · Next.js · Node.js",
+      "url": "https://github.com/harshitgupta31415/cdr_to_svg",
+      "description": "Local-first CorelDRAW and SVG conversion with installed-engine detection and automatic temporary-file cleanup.",
+      "label": "Design file conversion",
+      "color": "#f7c57a",
+      "symbol": "VB"
+    }
+  ],
+  "platforms": [
+    {
+      "id": "codeyes",
+      "name": "CodEyes",
+      "category": "Progress",
+      "url": "https://codeyes.in/",
+      "description": "Bring supported coding profiles together and follow contests in one place.",
+      "priority": "Start here"
+    },
+    {
+      "id": "peerlist",
+      "name": "Peerlist",
+      "category": "Community",
+      "url": "https://peerlist.io/",
+      "description": "Show the work behind your profile, share projects, and connect with other builders.",
+      "priority": "Start here"
+    },
+    {
+      "id": "devpost",
+      "name": "Devpost",
+      "category": "Hackathons",
+      "url": "https://devpost.com/",
+      "description": "Keep a public portfolio of hackathon submissions and discover events.",
+      "priority": "Start here"
+    },
+    {
+      "id": "devfolio",
+      "name": "Devfolio",
+      "category": "Hackathons",
+      "url": "https://devfolio.co/",
+      "description": "Discover hackathons, apply with a builder profile, and share what you ship.",
+      "priority": "Start here"
+    },
+    {
+      "id": "exercism",
+      "name": "Exercism",
+      "category": "Practice",
+      "url": "https://exercism.org/",
+      "description": "Build language fluency through focused exercises and mentoring. Useful for the move into C++.",
+      "priority": "Explore"
+    },
+    {
+      "id": "cses",
+      "name": "CSES",
+      "category": "Practice",
+      "url": "https://cses.fi/problemset/",
+      "description": "Work through a structured problem set spanning core competitive-programming topics.",
+      "priority": "Explore"
+    },
+    {
+      "id": "codechef",
+      "name": "CodeChef",
+      "category": "Practice",
+      "url": "https://www.codechef.com/",
+      "description": "An additional home for programming practice and contests.",
+      "priority": "Explore"
+    },
+    {
+      "id": "hackerrank",
+      "name": "HackerRank",
+      "category": "Practice",
+      "url": "https://www.hackerrank.com/",
+      "description": "Practise technical skills and explore skill assessments and certifications.",
+      "priority": "Explore"
+    },
+    {
+      "id": "kaggle",
+      "name": "Kaggle",
+      "category": "Data & AI",
+      "url": "https://www.kaggle.com/",
+      "description": "Explore the data-science and machine-learning community through practical work.",
+      "priority": "Explore"
+    },
+    {
+      "id": "dev",
+      "name": "DEV Community",
+      "category": "Writing",
+      "url": "https://dev.to/",
+      "description": "Write about bugs, engineering decisions, and lessons from building your projects.",
+      "priority": "Explore"
+    },
+    {
+      "id": "hashnode",
+      "name": "Hashnode",
+      "category": "Writing",
+      "url": "https://hashnode.com/",
+      "description": "Build a technical blog and publish longer explanations of your work.",
+      "priority": "Explore"
+    },
+    {
+      "id": "wellfound",
+      "name": "Wellfound",
+      "category": "Careers",
+      "url": "https://wellfound.com/",
+      "description": "Explore startup roles and present your experience to hiring teams.",
+      "priority": "Explore"
+    }
+  ]
+}
